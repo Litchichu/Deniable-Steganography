@@ -1,0 +1,1 @@
+This is noise layers between the encoder and the decoder. For steganography, we use the 'identity' layer.

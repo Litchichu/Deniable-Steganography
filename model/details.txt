@@ -1,0 +1,1 @@
+The detailed structures of the encoder, the decoder for real messsages, the decoder for fake messsages, and the adversarial discriminator.
